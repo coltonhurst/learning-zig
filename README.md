@@ -1,4 +1,4 @@
-# learning-zip
+# learning-zig
 
 Trying out [Zig](https://ziglang.org/)!
 
